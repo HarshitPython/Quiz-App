@@ -67,12 +67,7 @@ question_data = data["results"]
 #     {
 #         "category": "Science: Computers",
 #         "type": "boolean",
-#         "difficulty": "easy",
-#         "question": "The programming language 'Python' is based off a modified version of 'JavaScript'",
-#         "correct_answer": "False",
-#         "incorrect_answers": [
-#             "True"
-#         
+
 #      
 #         
 #         
