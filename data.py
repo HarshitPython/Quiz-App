@@ -111,7 +111,4 @@ question_data = data["results"]
 #         "question": "The IBM PC used an Intel 8008 microprocessor clocked at 4.77 MHz and 8 kilobytes of memory.",
 #         "correct_answer": "False",
 #         "incorrect_answers": [
-#             "True"
-#         ]
-#     }
-# ]
+# 
