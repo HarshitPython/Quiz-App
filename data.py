@@ -72,13 +72,7 @@ question_data = data["results"]
 #         "correct_answer": "False",
 #         "incorrect_answers": [
 #             "True"
-#         ]
-#     },
-#     {
-#         "category": "Science: Computers",
-#         "type": "boolean",
-#         "difficulty": "medium",
-
+#         
 #      
 #         
 #         
