@@ -78,10 +78,7 @@ question_data = data["results"]
 #         "category": "Science: Computers",
 #         "type": "boolean",
 #         "difficulty": "medium",
-#         "question": "AMD created the first consumer 64-bit processor.",
-#         "correct_answer": "True",
-#         "incorrect_answers": [
-#             "False"
+
 #      
 #         
 #         
