@@ -98,8 +98,4 @@ question_data = data["results"]
 #         "category": "Science: Computers",
 #         "type": "boolean",
 #         "difficulty": "easy",
-#         "question": "In most programming languages, the operator ++ is equivalent to the statement '+= 1'.",
-#         "correct_answer": "True",
-#         "incorrect_answers": [
-#             "False"
-#     
+#         
