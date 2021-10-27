@@ -48,15 +48,7 @@ question_data = data["results"]
 #         "category": "Science: Computers",
 #         "type": "boolean",
 #         "difficulty": "medium",
-#         "question": "All program codes have to be compiled into an executable file in order to be run. This file can then be executed on any machine.",
-#         "correct_answer": "False",
-#         "incorrect_answers": [
-#             "True"
-#         ]
-#     },
-#     {
-#         "category": "Science: Computers",
-#         "type": "boolean",
+#      
 # 
 #      
 #         
