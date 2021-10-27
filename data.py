@@ -38,16 +38,7 @@ question_data = data["results"]
 #         "category": "Science: Computers",
 #         "type": "boolean",
 #         "difficulty": "medium",
-#         "question": "FLAC stands for 'Free Lossless Audio Condenser'.",
-#         "correct_answer": "False",
-#         "incorrect_answers": [
-#             "True"
-#         ]
-#     },
-#     {
-#         "category": "Science: Computers",
-#         "type": "boolean",
-#         "difficulty": "medium",
+#   
 #      
 # 
 #      
