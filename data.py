@@ -108,7 +108,5 @@ question_data = data["results"]
 #         "category": "Science: Computers",
 #         "type": "boolean",
 #         "difficulty": "hard",
-#         "question": "The IBM PC used an Intel 8008 microprocessor clocked at 4.77 MHz and 8 kilobytes of memory.",
-#         "correct_answer": "False",
-#         "incorrect_answers": [
+#         "
 # 
