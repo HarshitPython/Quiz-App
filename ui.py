@@ -24,7 +24,7 @@ class QuizInterface():
             fill=THEME_COLOR,
             font=["Arial",20,"italic"]
             )
-#         self.canvas.grid(row=1, column=0,columnspan=2,pady=50)
+        self.canvas.grid(row=1, column=0,columnspan=2,pady=50)
 
 #         true_img = PhotoImage(file="images/true.png")
 #         self.true_button = Button(image=true_img,highlightthickness=0,command=self.true_pressed)
