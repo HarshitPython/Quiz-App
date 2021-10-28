@@ -5,12 +5,12 @@ THEME_COLOR = "#375362"
 
 class QuizInterface():
 
-#     def __init__(self, quiz_brain:QuizBrain):
-#         self.quiz = quiz_brain
-#         self.window = Tk()
-#         self.window.title("Quiz")
-#         self.canvas = Canvas()
-#         self.window.config(padx=20, pady=20,bg=THEME_COLOR)
+    def __init__(self, quiz_brain:QuizBrain):
+        self.quiz = quiz_brain
+        self.window = Tk()
+        self.window.title("Quiz")
+        self.canvas = Canvas()
+        self.window.config(padx=20, pady=20,bg=THEME_COLOR)
 
 #         self.score_label = Label(text="Score: 0",fg="white",bg=THEME_COLOR,font=["Arial",10,"bold"])
 #         self.score_label.grid(row=0, column=1)
