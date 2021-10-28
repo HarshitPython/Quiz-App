@@ -23,7 +23,7 @@ class QuizInterface():
             text="some question text",
             fill=THEME_COLOR,
             font=["Arial",20,"italic"]
-#             )
+            )
 #         self.canvas.grid(row=1, column=0,columnspan=2,pady=50)
 
 #         true_img = PhotoImage(file="images/true.png")
