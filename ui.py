@@ -26,9 +26,9 @@ class QuizInterface():
             )
         self.canvas.grid(row=1, column=0,columnspan=2,pady=50)
 
-#         true_img = PhotoImage(file="images/true.png")
-#         self.true_button = Button(image=true_img,highlightthickness=0,command=self.true_pressed)
-#         self.true_button.grid(row=2,column=0)
+        true_img = PhotoImage(file="images/true.png")
+        self.true_button = Button(image=true_img,highlightthickness=0,command=self.true_pressed)
+        self.true_button.grid(row=2,column=0)
         
 #         false_img = PhotoImage(file="images/false.png")
 #         self.false_button = Button(image=false_img,highlightthickness=0,command=self.false_pressed)
