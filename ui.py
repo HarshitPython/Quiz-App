@@ -36,7 +36,7 @@ class QuizInterface():
 
         self.get_next_question()
 
-#         self.window.mainloop()
+        self.window.mainloop()
 
 #     def get_next_question(self):
 #         self.canvas.config(bg="white")
