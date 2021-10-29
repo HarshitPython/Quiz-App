@@ -34,7 +34,7 @@ class QuizInterface():
         self.false_button = Button(image=false_img,highlightthickness=0,command=self.false_pressed)
         self.false_button.grid(row=2,column=1)
 
-#         self.get_next_question()
+        self.get_next_question()
 
 #         self.window.mainloop()
 
