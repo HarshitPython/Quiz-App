@@ -57,7 +57,7 @@ class QuizInterface():
     def false_pressed(self):
         self.give_feedback(self.quiz.check_answer("False"))
 
-#     def give_feedback(self, is_right):
+    def give_feedback(self, is_right):
 #         if is_right:
 #             self.canvas.config(bg="green")
 #         else:
